@@ -1,6 +1,7 @@
 ::selection {
   background: #B8F3E6;
 }
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,7 +9,6 @@
 }
 
 main {
-  /* background: red; */
   padding: 2rem;
   margin: 0 auto;
   text-align: center;
