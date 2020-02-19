@@ -10,7 +10,8 @@
 </head>
 <body>
   <main class="notepad">
-    <textarea name="notepad" id="notepad" cols="120" rows="20"></textarea>
+    <textarea name="notepad" id="notepad" cols="120" rows="20" autofocus></textarea>
+    <button id="resetbtn">Reset</button>
   </main>
   <script src="asset/app.js"></script>
 </body>
